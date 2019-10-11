@@ -19679,6 +19679,16 @@
 			"coverartImage": null,
 			"keyframeImage": "http://staging.knowledgekids.ca/sites/default/files/styles/app_categories_carousel_retina/public/playlist/poster/Christmas_Series.jpg?itok=LTKAzxV8",
 			"episodeIds": ["EPI:59198426", "EPI:56426297", "EPI:76795222", "EPI:76795218", "EPI:78649743"]
+    },
+    "PLA:158": {
+			"id": "PLA:158",
+			"title": "Luna, Chip and Inkie Playlist",
+			"description": "This is an example of a second playlist! There is usually only one at a time, but we need to handle this case too!",
+			"deepLink": "/playlist/christmas-specials",
+			"portholeImage": "http://staging.knowledgekids.ca/sites/default/files/styles/app_show_carousel_retina/public/playlist/porthole/Christmas-porthole.png?itok=ModyzItP",
+			"coverartImage": null,
+			"keyframeImage": "http://staging.knowledgekids.ca/sites/default/files/styles/app_categories_carousel_retina/public/playlist/poster/Christmas_Series.jpg?itok=LTKAzxV8",
+			"episodeIds": ["EPI:1", "EPI:70488851", "EPI:70488819", "EPI:70488656", "EPI:70488783", "EPI:70489099", "EPI:70489081", "EPI:70489063", "EPI:45401217", "EPI:45400537","EPI:45400524", "EPI:45400502"]
 		}
 	},
   "promotions": {
