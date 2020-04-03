@@ -6,7 +6,7 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="surround",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://bitdash-a.akamaihd.net/content/sintel/hls/audio/surround/en/320kbit.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="surround",LANGUAGE="dubbing",NAME="Dubbing",DEFAULT=NO,AUTOSELECT=YES,URI="https://bitdash-a.akamaihd.net/content/sintel/hls/audio/stereo/none/128kbit.m3u8"
 
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Engrish",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",URI="https://bitdash-a.akamaihd.net/content/sintel/hls/subtitles_en.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Engrish",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",URI="https://raw.githubusercontent.com/odracirharo/kids_api_examples/manifests/subtitles_en.m3u8"
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=258157,CODECS="avc1.4d400d,mp4a.40.2",AUDIO="stereo",RESOLUTION=422x180,SUBTITLES="subs"
 https://bitdash-a.akamaihd.net/content/sintel/hls/video/250kbit.m3u8
