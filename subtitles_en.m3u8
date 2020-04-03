@@ -4,5 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:887.0,
-https://github.com/odracirharo/kids_api_examples/blame/manifests/dragon_sub.vtt
+https://bitdash-a.akamaihd.net/content/sintel/hls/subtitles_en.vtt
 #EXT-X-ENDLIST
