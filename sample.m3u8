@@ -1,14 +1,16 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=560000,RESOLUTION=480x270,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
-https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/rNTJpWJV-25175125.mp4.m3u8?token=0_5e793d53_0x46abffee88ad2761d545e60e8337262d7604f0fd
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4470000,RESOLUTION=1920x1080,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
-https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/rNTJpWJV-25175130.mp4.m3u8?token=0_5e793d53_0xd48a5c254054681fae376b4fdfe861a7442aafa7
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1820000,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
-https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/rNTJpWJV-25175127.mp4.m3u8?token=0_5e793d53_0x220fcf8188534d79219873c46ad3ac37af7a79ab
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=780000,RESOLUTION=720x406,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
-https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/rNTJpWJV-25175126.mp4.m3u8?token=0_5e793d53_0xbf1467cc05166cd647e786dc865745f06eed806b
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=380000,RESOLUTION=320x180,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
-https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/rNTJpWJV-25175124.mp4.m3u8?token=0_5e793d53_0xd7ed56d148eac269ced2c983f7e04f594ec2ff12
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2", SUBTITLES="subtitles"
-https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/rNTJpWJV-25175129.m4a.m3u8?token=0_5e793d53_0xce7b7b8dc2ecb6d4f3664fc9c2a8837467f8c0b8
+
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=530000,RESOLUTION=480x270,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
+https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175125.mp4.m3u8?token=0_5e87b482_0x32126026ef8c72522c03ba27e0210d227cceb051
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3880000,RESOLUTION=1920x1080,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
+https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175130.mp4.m3u8?token=0_5e87b482_0x7c7ef48eeec0ee7b6294782799214c3874a4a5ea
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1690000,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
+https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175127.mp4.m3u8?token=0_5e87b482_0x7c951d64d3c70570671ac714a8ba6c73f2d3a4b9
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=730000,RESOLUTION=720x406,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
+https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175126.mp4.m3u8?token=0_5e87b482_0xac721183a4f23a3c77e3492433467718dbf56a80
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=360000,RESOLUTION=320x180,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE, SUBTITLES="subtitles"
+https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175124.mp4.m3u8?token=0_5e87b482_0x403db25999f760ed099d67e659e2c988e6c50aac
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2"
+https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175129.m4a.m3u8?token=0_5e87b482_0x368a32d3db1e299ea7131052eebd0f595ad84b95
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",LANGUAGE="en",NAME="English",AUTOSELECT=YES, DEFAULT=YES,URI="https://raw.githubusercontent.com/odracirharo/kids_api_examples/manifests/sample.vtt"
