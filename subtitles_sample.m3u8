@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:141
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:141.0,
+https://raw.githubusercontent.com/odracirharo/kids_api_examples/manifests/sample.vtt
+#EXT-X-ENDLIST
