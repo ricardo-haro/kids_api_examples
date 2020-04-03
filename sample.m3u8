@@ -13,4 +13,4 @@ https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175
 https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175124.mp4.m3u8?token=0_5e87b482_0x403db25999f760ed099d67e659e2c988e6c50aac
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2"
 https://videos-fms.jwpsrv.com/content/conversions/rKMtuk9E/videos/Q9F8seKv-25175129.m4a.m3u8?token=0_5e87b482_0x368a32d3db1e299ea7131052eebd0f595ad84b95
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",LANGUAGE="en",NAME="Test_English",AUTOSELECT=YES, DEFAULT=YES,URI="https://raw.githubusercontent.com/odracirharo/kids_api_examples/manifests/sample.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",LANGUAGE="en",NAME="Test_English",AUTOSELECT=YES, DEFAULT=YES,URI="https://raw.githubusercontent.com/odracirharo/kids_api_examples/manifests/subtitles_sample.m3u8"
