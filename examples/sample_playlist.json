@@ -1,0 +1,40 @@
+{
+    "playlist_id": 100,
+    "title": "Sample Playlist",
+    "description": "This is a sample for how to create a playlist API.",
+    "categories": [
+    3,
+    12
+    ],
+    "images": {
+        "porthole": "https:\/\/www-knowledgekids-ca.azureedge.net\/sites\/default\/files\/styles\/api3_porthole\/public\/2022-03\/Porthole_LCI_AdventureRangersGoSongs.png?itok=2OeqBNTt",
+        "poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_program_poster/public/2020-03/peepandthebigwideworld.jpg?itok=q7KzFjU0"
+    },
+    "episodes": [
+    5194,
+    6850,
+    5794,
+    6655,
+    6625,
+    25682,
+    25685,
+    25688,
+    25691,
+    25694,
+    7129,
+    360,
+    5911,
+    5956,
+    7186,
+    2818,
+    2926,
+    3037,
+    27193,
+    27304,
+    27332,
+    27594,
+    27612,
+    27699],
+    "streaming": true,
+    "path": "/videos/peep-and-big-wide-world"
+}
