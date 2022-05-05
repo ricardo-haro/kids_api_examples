@@ -1,4 +1,4 @@
-{
+[{
     "playlist_id": 100,
     "title": "Sample Playlist",
     "description": "This is a sample for how to create a playlist API.",
@@ -37,4 +37,4 @@
     27699],
     "streaming": true,
     "path": "/videos/peep-and-big-wide-world"
-}
+}]
