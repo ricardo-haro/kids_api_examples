@@ -1,0 +1,188 @@
+[
+    {
+    "episode_id": 19696,
+    "title": "The Blob Everyone Ate",
+    "season_number": 2,
+    "season_label": "",
+    "episode_number": 1,
+    "images": {
+    "poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_episode_poster/public/2020-08/s2e1.png?itok=n1IEe6l8"
+    },
+    "duration": 445,
+    "territory": "ca",
+    "video_id": "gUKov1Ya",
+    "streaming": false,
+    "path": "/videos/16-hudson/s2/e1/blob-everyone-ate",
+    "program_id": 111,
+    "program_title": "16 Hudson"
+    },
+    {
+    "episode_id": 19699,
+    "title": "Lacrosse Purposes",
+    "season_number": 2,
+    "season_label": "",
+    "episode_number": 2,
+    "images": {
+    "poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_episode_poster/public/2020-08/s2e2.png?itok=iptnkUgr"
+    },
+    "duration": 445,
+    "territory": "ca",
+    "video_id": "1VqtlMyc",
+    "streaming": false,
+    "path": "/videos/16-hudson/s2/e2/lacrosse-purposes",
+    "program_id": 111,
+    "program_title": "16 Hudson"
+    },
+    {
+    "episode_id": 19702,
+    "title": "Picture Perfect",
+    "season_number": 2,
+    "season_label": "",
+    "episode_number": 3,
+    "images": {
+    "poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_episode_poster/public/2020-08/s2e3.png?itok=wZ-e4aT0"
+    },
+    "duration": 445,
+    "territory": "ca",
+    "video_id": "YtpowZUe",
+    "streaming": false,
+    "path": "/videos/16-hudson/s2/e3/picture-perfect",
+    "program_id": 111,
+    "program_title": "16 Hudson"
+    },{
+"episode_id": 23273,
+"title": "The Peeper Transport",
+"season_number": 2,
+"season_label": "",
+"episode_number": 1,
+"images": {
+"poster": null
+},
+"duration": 720,
+"territory": "",
+"video_id": "",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e1/peeper-transport",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+},
+{
+"episode_id": 5353,
+"title": "The Peeper Transport/Abby Loses Her Glasses",
+"season_number": 2,
+"season_label": "",
+"episode_number": 1,
+"images": {
+"poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_episode_poster/public/episodes/abby-hatcher-s2e1-peeper-transportabby-loses-her-glasses_78714589.jpg?itok=JJj4xOj_"
+},
+"duration": 1381,
+"territory": "ca",
+"video_id": "kJiEWRuv",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e1/peeper-transportabby-loses-her-glasses",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+},
+{
+"episode_id": 10747,
+"title": "Teeny Terry... Teeny Man!/Mo and Bo and the Missing Button Trail",
+"season_number": 2,
+"season_label": "",
+"episode_number": 2,
+"images": {
+"poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_episode_poster/public/episodes/abby-hatcher-s2e2-teeny-terry-teeny-manmo-and-bo-and-missing-button-trail_78714595.jpg?itok=MigtWeny"
+},
+"duration": 1381,
+"territory": "ca",
+"video_id": "yTH4gK90",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e2/teeny-terry-teeny-manmo-and-bo-and-missing-button-trail",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+},
+{
+"episode_id": 23189,
+"title": "Abby Loses Her Glasses",
+"season_number": 2,
+"season_label": "",
+"episode_number": 2,
+"images": {
+"poster": null
+},
+"duration": 720,
+"territory": "",
+"video_id": "",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e2/abby-loses-her-glasses",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+},
+{
+"episode_id": 23273,
+"title": "The Peeper Transport",
+"season_number": 2,
+"season_label": "",
+"episode_number": 1,
+"images": {
+"poster": null
+},
+"duration": 720,
+"territory": "",
+"video_id": "",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e1/peeper-transport",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+},
+{
+"episode_id": 5353,
+"title": "The Peeper Transport/Abby Loses Her Glasses",
+"season_number": 2,
+"season_label": "",
+"episode_number": 1,
+"images": {
+"poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_episode_poster/public/episodes/abby-hatcher-s2e1-peeper-transportabby-loses-her-glasses_78714589.jpg?itok=JJj4xOj_"
+},
+"duration": 1381,
+"territory": "ca",
+"video_id": "kJiEWRuv",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e1/peeper-transportabby-loses-her-glasses",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+},
+{
+"episode_id": 10747,
+"title": "Teeny Terry... Teeny Man!/Mo and Bo and the Missing Button Trail",
+"season_number": 2,
+"season_label": "",
+"episode_number": 2,
+"images": {
+"poster": "https://www-knowledgekids-ca.azureedge.net/sites/default/files/styles/api3_episode_poster/public/episodes/abby-hatcher-s2e2-teeny-terry-teeny-manmo-and-bo-and-missing-button-trail_78714595.jpg?itok=MigtWeny"
+},
+"duration": 1381,
+"territory": "ca",
+"video_id": "yTH4gK90",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e2/teeny-terry-teeny-manmo-and-bo-and-missing-button-trail",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+},
+{
+"episode_id": 23189,
+"title": "Abby Loses Her Glasses",
+"season_number": 2,
+"season_label": "",
+"episode_number": 2,
+"images": {
+"poster": null
+},
+"duration": 720,
+"territory": "",
+"video_id": "",
+"streaming": false,
+"path": "/videos/abby-hatcher/s2/e2/abby-loses-her-glasses",
+"program_id": 240,
+"program_title": "Abby Hatcher"
+}
+]
